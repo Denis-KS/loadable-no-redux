@@ -1,0 +1,22 @@
+[
+    {
+        "value": "subCategory 1",
+        "description": "Some text",
+        "id": "001"
+    },
+    {
+        "value": "subCategory 2",
+        "description": "",
+        "id": "002"
+    },
+    {
+        "value": "subCategory 3",
+        "description": "o_O",
+        "id": "003"
+    },
+    {
+        "value": "subCategory 4",
+        "description": "",
+        "id": "004"
+    }
+]

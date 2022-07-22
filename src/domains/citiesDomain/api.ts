@@ -1,0 +1,1 @@
+export const fetchCities = (city: string) => fetch(`http://geodb-free-service.wirefreethought.com/v1/geo/cities?namePrefix=${city}&hateoasMode=false&limit=5&offset=0`).then(result => result.json());
